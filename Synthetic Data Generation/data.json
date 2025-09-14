@@ -1,0 +1,16 @@
+{
+    "number_of_images": 500,
+    "environment": {
+        "env": "bulk_test",
+        "current_images_test": 97,
+        "current_testing_image": 11
+    },
+    "image_data": {
+        "image_height": 480,
+        "image_width": 854,
+        "contrast": 0.05,
+        "intensity_factor": 0.4,
+        "port_distance_from_origin": 200,
+        "scaling_factor": 0.006
+    }
+}
