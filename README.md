@@ -1,2 +1,2 @@
-# a_study_on_atomic_interferometry_code
+# A Study on Atomic Interferometry - Code
 The code written for my "A Study on Atomic Interferometry" research project.
